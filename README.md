@@ -77,7 +77,7 @@ Find an invoke an operation:
 -> nil
 ```
 
-Conneting to another process? Just run *any* of the above code
+Connecting to another process? Just run *any* of the above code
 inside a with-connection:
 
 ```clojure
